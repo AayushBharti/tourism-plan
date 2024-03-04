@@ -2,4 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-
+@import url("https://fonts.googleapis.com/css2?family=Manrope&family=Montserrat&family=Mulish:ital@1&family=Poppins&family=Raleway&family=Roboto&display=swap");
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Poppins,mulish,sans-serif;
+}
